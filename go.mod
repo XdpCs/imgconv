@@ -1,4 +1,4 @@
-module imgconv
+module github.com/XdpCs/imgconv
 
 go 1.22
 
